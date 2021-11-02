@@ -1,0 +1,7 @@
+users:
+  start-power: 10
+  max-power: 20
+  regen-power: 5 #In minutes
+
+lands:
+  must-be-connected: false
